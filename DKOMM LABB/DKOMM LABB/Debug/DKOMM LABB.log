@@ -1,0 +1,4 @@
+﻿  main.c
+f:\dokument\visual studio 2015\projects\dkomm labb\dkomm labb\main.c(30): warning C4133: 'initializing': incompatible types - from 'char *' to 'WCHAR *'
+  DKOMM LABB.vcxproj -> F:\dokument\Visual Studio 2015\Projects\DKOMM LABB\Debug\DKOMM LABB.exe
+  DKOMM LABB.vcxproj -> F:\dokument\Visual Studio 2015\Projects\DKOMM LABB\Debug\DKOMM LABB.pdb (Partial PDB)
